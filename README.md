@@ -65,7 +65,7 @@ To get this repository to your desired folder:
 
 ```sh
   cd my-folder
-  gitclone https://github.com/ambrose-kibet/decode_morse_code.git
+  git clone https://github.com/obed300/Enumerable.git
 ```
 
 ### Running the app
